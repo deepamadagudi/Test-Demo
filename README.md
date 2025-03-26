@@ -1,3 +1,3 @@
 # Test-Demo
-Learning 
-Basics about git and it commands
+Learning, 
+Basics about git and Git commands
